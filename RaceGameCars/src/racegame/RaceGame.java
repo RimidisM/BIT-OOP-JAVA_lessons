@@ -40,6 +40,7 @@ public class RaceGame {
                 if (cars[i].getDist() >= 1000) {
                     System.out.println("!!!!!!!!!Laimejo automobilis " + cars[i].getName());
                     end = false;
+                    break;
                 }
             }
             sort(cars);

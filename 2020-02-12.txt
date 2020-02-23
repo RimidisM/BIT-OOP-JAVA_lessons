@@ -1,0 +1,11 @@
+SQL tekstas parasytas tam tikra kalba
+
+LAMP    Linux, Apache MySQL (Perl) PHP
+
+posgreSQL
+Oracle
+
+
+SQL nesvarbu su kuo parasyta programa Java PHP ir taip toliau
+
+my SQL work bench  padeda bendrauti su serveriu
